@@ -10,5 +10,29 @@
         "title": "CSS3 is the key presentational technology that is used in website design.",
         "image_url": "https://cdn.iconscout.com/icon/free/png-256/css-37-226088.png",
         "details": "CSS was designed to enable the separation of presentation and content. Now web designers can move the formatting information of the web pages to a separate style sheet which results in considerably simpler HTML markup, and better maintainability."
+    },
+    {
+        "category_id": "03",
+        "title": "Full Bootstrap 5 Tutorial for Beginners",
+        "image_url": "https://static.javatpoint.com/tutorial/bootstrap5/images/bootstrap-5.png",
+        "details": "Bootstrap is the most popular CSS framework. It allows web developers to quickly design and customize responsive mobile-first sites."
+    },
+    {
+        "category_id": "04",
+        "title": "The Modern JavaScript Tutorial",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx6ZTCEs7JomF2hhDV13hWds6rg2UPyVpAZA&usqp=CAU",
+        "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries"
+    },
+    {
+        "category_id": "05",
+        "title": "Learn ReactJS Tutorial",
+        "image_url": "https://blog.logrocket.com/wp-content/uploads/2020/12/improve-app-performance-react-server-side-rendering-nocdn.png",
+        "details": "ReactJS tutorial provides basic and advanced concepts of ReactJS. Currently, ReactJS is one of the most popular JavaScript front-end libraries which has a strong foundation and a large community.Our ReactJS tutorial includes all the topics which help to learn ReactJS. These are ReactJS Introduction, ReactJS Features, ReactJS Installation, Pros and Cons of ReactJS, ReactJS JSX, ReactJS Components, ReactJS State, ReactJS Props, ReactJS Forms, ReactJS Events, ReactJS Animation and many more."
+    },
+    {
+        "category_id": "06",
+        "title": "Introduction to Node.js",
+        "image_url": "https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png",
+        "details": "As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. In the following hello world example, many connections can be handled concurrently. Upon each connection, the callback is fired, but if there is no work to be done, Node.js will sleep."
     }
 ]
